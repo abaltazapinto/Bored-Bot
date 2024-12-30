@@ -1,0 +1,19 @@
+{
+  "name": "Bored-Bot",
+  "version": "1.0.0",
+  "description": "A simple JavaScript, CSS, and HTML application",
+  "scripts": {
+    "start": "node server.js",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "webpack": "^5.49.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "devDependencies": {
+    "babel-loader": "^8.2.4",
+    "css-loader": "^6.2.0",
+    "html-webpack-plugin": "^12.4.0",
+    "style-loader": "^2.1.2"
+  }
+}
